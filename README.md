@@ -44,6 +44,12 @@ Data from the natural environment is invisible but still relevant to us. The pur
 - Theory in Contemporary Architectural Design
   <br>
   
-     <img src="https://github.com/zzto1118/Arduino-project-tutorial/assets/56177491/5229b417-50c1-4885-bfd3-c31d5af063a0" width="166" height="122">  
+  <img src="https://github.com/zzto1118/Arduino-project-tutorial/assets/56177491/5229b417-50c1-4885-bfd3-c31d5af063a0" width="166" height="122"> 
+# Acknowledgments  
+- [Arduino](https://github.com/arduino) open source community and forum
+- Most of the sensor code is based on [Adafruit](https://github.com/adafruit)  
+  
+  Please try to support developer contributions and purchase genuine Arduino or sensors  
+
 # License
 - MIT
