@@ -39,12 +39,12 @@ Data from the natural environment is invisible but still relevant to us. The pur
 - Chapter 9 is actually an additional appendix, which is some example codes for common sensor production (optimized and improved based on the Arduin library). And try to explain the meaning of each line of code, so that everyone can more easily understand the meaning and function of each line of code. And this list is growing, I will try my best to keep adding new and various sensors.
   
 - Sensor with full code and explanation added:
-  | Type: | Sensors: |  |  |  |  |  |
+  | Type: | Sensors: |   |  |  |  |  |
   | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
   | Temperature & Humidity |  DHT 11  |  DHT 22  |  SHT 31  |  SHT 40  |  SHT 41  |  SHT 45  |
   | Air quality |  SGP 30  |  SGP 30  |
   | Pressure & Altimeter |  BMP 280  |  BMP 388  |  BMP 390  |
-  | Ambient light |  TSL 2591  |
+  | Ambient light |  TSL 2561  |  TSL 2591  |
   <br>  
 
 - ### Chapter 10: Arduino environmental monitoring system ###
