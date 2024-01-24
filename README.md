@@ -47,6 +47,10 @@ Data from the natural environment is invisible but still relevant to us. The pur
   | Ambient light |  TSL 2591  |
   <br>  
 
+- ### Chapter 10: Arduino environmental monitoring system ###
+- (Planning...)  
+  <br>  
+
 # Use  
 - For education
 - Politecnico di Millano
