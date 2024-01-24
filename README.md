@@ -43,10 +43,11 @@ Data from the natural environment is invisible but still relevant to us. The pur
 - Politecnico di Millano
 - Theory in Contemporary Architectural Design
   <br>
-  
+    <br>
+
   <img src="https://github.com/zzto1118/Arduino-project-tutorial/assets/56177491/5229b417-50c1-4885-bfd3-c31d5af063a0" width="166" height="122">  
   <br>  
-  <br>  
+    <br>  
 
 # Contact  
 - If you have any suggestions for improvements please feel free to contact me  
@@ -54,7 +55,7 @@ Data from the natural environment is invisible but still relevant to us. The pur
 - By filling out the Google sheet “[Feedback form](https://docs.google.com/spreadsheets/d/1U80p1SOXAMmdWQu03KWYERSLTwVnk7Jd-wSJo0EKJ0E/edit?usp=sharing)” in the attachment  
 - Or <a href="mailto:zitong.zhou@mail.polimi.it?subject=Arduino Project:">Send email</a>
   <br>
-  <br>  
+    <br>  
 
 # Acknowledgments  
 - [Arduino](https://github.com/arduino) open source community and forum
