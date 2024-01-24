@@ -48,6 +48,14 @@ Data from the natural environment is invisible but still relevant to us. The pur
   <br>  
   <br>  
 
+# Contact  
+- If you have any suggestions for improvements please feel free to contact me  
+- If there are any sensors you would like to add or learn about, please feel free to contact me  
+- By filling out the Google sheet “[Feedback form](https://docs.google.com/spreadsheets/d/1U80p1SOXAMmdWQu03KWYERSLTwVnk7Jd-wSJo0EKJ0E/edit?usp=sharing)” in the attachment  
+- Or <a href="mailto:zitong.zhou@mail.polimi.it?subject=Arduino Project:">Send email</a>
+  <br>
+  <br>  
+
 # Acknowledgments  
 - [Arduino](https://github.com/arduino) open source community and forum
 - Most of the sensor library is based on [Adafruit](https://github.com/adafruit)  
