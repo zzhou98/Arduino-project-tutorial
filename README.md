@@ -1,4 +1,3 @@
-![polimi logo black long](https://github.com/zzhou98/Arduino-project-tutorial/assets/56177491/9c81b062-1ae9-47c2-a5da-ccc836ad39bb)# Arduino-project-tutorial  
 Data from the natural environment is invisible but still relevant to us. The purpose of this tutorial is to obtain and extract data from the natural environment and visualise it through Arduino. From the beginning, we will introduce the connection and use of Arduino and various natural environment sensors, and finally present the invisible environmental data. From the basics of temperature and humidity in the environment to climate and various gases, sound, light, water, soil. Detect changes in the micro-environment by building a small mobile climate observatory yourself.  
 <br>  
 
