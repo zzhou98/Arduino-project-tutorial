@@ -24,7 +24,7 @@ Data from the natural environment is invisible but still relevant to us. The pur
 <br>
 
 - ### Chapter 6: Building Environmental Monitoring Projects ###
-- "In Chapter 6, you will apply your skills to build three different environmental monitoring projects: a DIY Weather Station, an Indoor Air Quality Monitor, and a Soil Moisture Monitoring System. Each project integrates multiple concepts and skills you've learned so far."  
+- "In Chapter 6, you will apply your skills to build three different environmental monitoring projects: a DIY Weather Station, an Air Quality Monitor, and a Soil Moisture Monitoring System. Each project integrates multiple concepts and skills you've learned so far."  
 <br>
 
 - ### Chapter 7: Troubleshooting and Best Practices ###
