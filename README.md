@@ -59,7 +59,11 @@ Data from the natural environment is invisible but still relevant to us. The pur
   <br>
     <br>
 
-  <img src="https://github.com/zzto1118/Arduino-project-tutorial/assets/56177491/5229b417-50c1-4885-bfd3-c31d5af063a0" width="166" height="122">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zzhou98/Arduino-project-tutorial/assets/56177491/1ddc5617-b711-4f92-b76f-0c0d5ba94225" width="166" height="122">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zzhou98/Arduino-project-tutorial/assets/56177491/b49eb213-7639-4dee-96e5-2ee952fe7e94" width="166" height="122">
+    <img alt="Shows a white Polimi logo in light mode and a black in dark mode." src="https://github.com/zzhou98/Arduino-project-tutorial/assets/56177491/b49eb213-7639-4dee-96e5-2ee952fe7e94" width="166" height="122">
+  </picture>
   <br>  
     <br>  
 
